@@ -2,7 +2,7 @@
 #include <SDL2/SDL.h>
 //1200×700 is resolution
 
-const int width = 1200, height = 700;
+const int width = 1920, height = 1080;
 
 int main(int argc, char *argv[] )
 {
